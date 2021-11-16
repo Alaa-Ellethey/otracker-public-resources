@@ -133,5 +133,5 @@ CredenceAdd:"",
 CredenceDetails:"",
 addStokMovement:"4RaPQDhY0L4",
 StocktakingReport:"",
-Products_Transactions_Inside_The_Vehicle_Report:""
+Products_Transactions_Inside_The_Vehicle_Report:"xxx"
 }
